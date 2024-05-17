@@ -12,7 +12,7 @@ return (
         </p>
         <p>${price}</p>
     </div>
-    
+    <button className="addToCartBttn">Add To Cart</button>
     </div>
 )
 }
